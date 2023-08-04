@@ -8,7 +8,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Monishparameswaran.Monishparameswaran)
 
 
- Feel free to contact me. I am always here ... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Monishparameswaran?label=Follow%20Me&style=social)](https://github.com/Monishparameswaran)
+I am always here ...  [![Github](https://img.shields.io/github/followers/Monishparameswaran?label=Follow%20Me&style=social)](https://github.com/Monishparameswaran)
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/monishTwt)](https://twitter.com/monishTwt/)
 [![Youtube Badge](https://img.shields.io/badge/-Monish%20Parameswara-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://youtube.com/@monishparameswara2498)](https://www.youtube.com/@monishparameswara2498)
