@@ -8,9 +8,11 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Monishparameswaran.Monishparameswaran)
 
+
+I am always here ... [![Github](https://img.shields.io/github/followers/Monishparameswaran?label=Follow%20Me&style=social)](https://github.com/Monishparameswaran)
+
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/monishTwt)](https://twitter.com/monishTwt/)
 [![Youtube Badge](https://img.shields.io/badge/-Monish%20Parameswara-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://youtube.com/@monishparameswara2498)](https://www.youtube.com/@monishparameswara2498)
-
 
 
 [![Hashnode Badge](https://img.shields.io/badge/-@monishparameswara-1F51FF?style=flat-square&labelColor=1F51FF&logo=Hashnode&link=https://kaiwalyakoparkar.hashnode.dev/)](https://monishparameswara.hashnode.dev/)
@@ -51,7 +53,15 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-
+## ⚡ Top Repositories
+<a href="https://github.com/Monishparameswaran/Learn-GO.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Monishparameswaran&repo=Learn-GO&theme=buefy" />
+</a>
+<a href="https://github.com/Monishparameswaran/ATM-application-go.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Monishparameswaran&repo=ATM-application-go&theme=buefy" />
+</a>
+<hr>
+<h3 align="center"> Interested in Collaborating or Donating/Sponsoring My Projects? Send an email to the above mentioned email addresses.</h3> 
 
 ## 📈 Stats
 <p align="center">
