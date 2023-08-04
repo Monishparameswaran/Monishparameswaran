@@ -1,15 +1,14 @@
 <h2 align="center">Hello there! My name is Monish. 👋🤓</h2>
 
 
-
-I am Monish Parameswaran,I'm Monish Parameswaran, a DevOps aspirant who has a deep-driven passion for contributing to open-source. I have contributed to some amazing open-source projects at JWOC'23 and have completed my Japanese NAT Q5 certification. Currently, I am involved in learning DevOps and participating in the #LearnInPublic initiative. You can see my learning activities on @monishTwt.
+I'm Monish Parameswaran, a DevOps aspirant who has a deep-driven passion for contributing to open-source. I have contributed to some amazing open-source projects at JWOC'23 and have completed my Japanese NAT Q5 certification. Currently, I am involved in learning DevOps and participating in the #LearnInPublic initiative. You can see my learning activities on @monishTwt.
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Monishparameswaran.Monishparameswaran)
 
 
-I am always here ... [![Github](https://img.shields.io/github/followers/Monishparameswaran?label=Follow%20Me&style=social)](https://github.com/Monishparameswaran)
+ Feel free to contact me. I am always here ... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Monishparameswaran?label=Follow%20Me&style=social)](https://github.com/Monishparameswaran)
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/monishTwt)](https://twitter.com/monishTwt/)
 [![Youtube Badge](https://img.shields.io/badge/-Monish%20Parameswara-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://youtube.com/@monishparameswara2498)](https://www.youtube.com/@monishparameswara2498)
